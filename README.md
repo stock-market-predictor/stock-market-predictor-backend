@@ -1,5 +1,7 @@
-# stock-market-predictor
+# stock-market-predictor-backend
 ## Summary
-People are influenced by the news and social media. We hope to create a neural network that does the same to spit out a prediction for the stock market.
+Using webscraped news headlines, social media trends, and stock market history, we will create a script that continuously trains a stock predictor neural network.
 ## Inputs
 - News headlines
+- Social media trends (nlp)
+- Stock market history
